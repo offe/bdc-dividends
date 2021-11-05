@@ -1,0 +1,44 @@
+{
+  data: [
+    {
+      "insId": 24,
+      "source": "https://www.axfood.se/investerare/aktien/utdelning_och_totalavkastning/", 
+
+      "splits": [
+        "date": "2015-04-17", 
+        "ratio": "4:1"
+      ],
+
+      "dividends": [
+        { "date": "2021-09-23", "amount": 3.75 },	
+        { "date": "2021-03-25", "amount": 3.75 },
+        { "date": "2020-09-17", "amount": 3.50 },
+        { "date": "2020-03-19", "amount": 3.75 },
+        { "date": "2019-03-22", "amount": 7.00 },
+        { "date": "2018-03-15", "amount": 7.00 },
+        { "date": "2017-03-16", "amount": 6.00 },
+        { "date": "2016-03-17", "amount": 4.00 },
+        { "date": "2016-03-17", "amount": 5.00 },
+        { "date": "2015-03-19", "amount": 17.00 },
+        { "date": "2014-03-13", "amount": 15.00 },
+        { "date": "2013-03-14", "amount": 12.00 },
+        { "date": "2012-03-15", "amount": 12.00 },
+        { "date": "2011-03-17", "amount": 12.00 },
+        { "date": "2010-03-11", "amount": 10.00 },
+        { "date": "2009-03-11", "amount": 8.00 },
+        { "date": "2008-03-06", "amount": 12.00 },
+        { "date": "2007-03-09", "amount": 8.00 },
+        { "date": "2007-03-09", "amount": 12.00 },
+        { "date": "2006-03-10", "amount": 6.00 },
+        { "date": "2006-03-10", "amount": 9.00 },
+        { "date": "2005-03-11", "amount": 4.50 },
+        { "date": "2005-03-11", "amount": 6.50 },
+        { "date": "2004-03-05", "amount": 5.50 },
+        { "date": "2003-04-24", "amount": 5.00 },
+        { "date": "2002-04-26", "amount": 2.50 },
+        { "date": "2001-05-04", "amount": 0.0 },
+        { "date": "2000-05-12", "amount": 2.60 }
+      ]
+    }
+  ]
+}
