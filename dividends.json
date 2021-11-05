@@ -28,6 +28,30 @@
       ]
     },
     {
+      "insId": 3,
+      "sources": [
+        "https://global.abb/group/en/investors/investor-and-shareholder-resources/dividend"
+      ],
+      "dividends": [
+        { "date": "2021-03-31", "amount": 7.4760 },
+        { "date": "2020-04-01", "amount": 7.4160 },
+        { "date": "2019-05-08", "amount": 7.4160 },
+        { "date": "2018-04-06", "amount": 6.8890 },
+        { "date": "2017-04-21", "amount": 6.7564 },
+        { "date": "2016-07-13", "amount": 6.2077 },
+        { "date": "2015-07-29", "amount": 4,9271 },
+        { "date": "2015-07-29", "amount": 1,5229 },
+        { "date": "2014-05-08", "amount": 5.0660 },
+        { "date": "2013-05-03", "amount": 4.7956 },
+        { "date": "2012-05-04", "amount": 4.6614 },
+        { "date": "2011-05-06", "amount": 3.9343 },
+        { "date": "2010-07-15", "amount": 3.3485 },
+        { "date": "2009-07-27", "amount": 3.3825 },
+        { "date": "2008-07-28", "amount": 2.4460 },
+        { "date": "2007-05-08", "amount": 1.3362 }
+      ]
+    },    
+    {
       "insId": 24,
       "sources": ["https://www.axfood.se/investerare/aktien/utdelning_och_totalavkastning/"], 
 
