@@ -1,8 +1,35 @@
 {
   "data": [
     {
+      "insId": 2,
+      "sources": [
+        "https://www.aak.com/sv-se/nyheter-och-media/pressreleaser/2013/arsstamma-i-aarhuskarlshamn-ab-publ/",
+        "https://www.aak.com/sv-se/nyheter-och-media/pressreleaser/2014/arsstamma-i-aarhuskarlshamn-ab/", 
+        "https://www.aak.com/sv-se/nyheter-och-media/pressreleaser/2015/arsstamma-i-aak-ab/",
+        "https://www.aak.com/sv-se/nyheter-och-media/pressreleaser/2016/arsstamma-i-aak-ab/",
+        "https://www.aak.com/sv-se/nyheter-och-media/pressreleaser/2017/arsstamma-i-aak-ab/",
+        "https://www.aak.com/sv-se/nyheter-och-media/pressreleaser/2018/arsstamma-i-aak-ab/",
+        "https://www.aak.com/sv-se/nyheter-och-media/pressreleaser/2019/arsstamma-i-aak-ab/",
+        "https://www.aak.com/sv-se/nyheter-och-media/pressreleaser/2020/arsstamma-i-aak-ab/",
+        "https://www.aak.com/sv-se/nyheter-och-media/pressreleaser/2020/kallelse-till-extra-bolagsstamma-i-aak-ab-publ/", 
+        "https://www.aak.com/sv-se/nyheter-och-media/pressreleaser/2021/arsstamma-i-aak-ab/"        
+      ],
+      "dividends": [
+        { "date": "2013-05-08", "amount": 5.25 },
+        { "date": "2014-05-13", "amount": 6.00 },	
+        { "date": "2015-05-07", "amount": 6.75 },	
+        { "date": "2016-05-13", "amount": 7.75 },	
+        { "date": "2017-05-19", "amount": 8.75 },	
+        { "date": "2018-06-01", "amount": 9.75 },	
+        { "date": "2019-05-17", "amount": 1.85 },	
+        { "date": "2020-05-13", "amount": 0.00 },	
+        { "date": "2020-11-30", "amount": 2.10 },	
+        { "date": "2021-05-11", "amount": 2.30 }
+      ]
+    },
+    {
       "insId": 24,
-      "source": "https://www.axfood.se/investerare/aktien/utdelning_och_totalavkastning/", 
+      "sources": ["https://www.axfood.se/investerare/aktien/utdelning_och_totalavkastning/"], 
 
       "splits": [
         {
